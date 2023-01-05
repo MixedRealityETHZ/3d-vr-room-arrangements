@@ -1,0 +1,12 @@
+[submodule "vr_client"]
+	path = vr_client
+	url = git@github.com:MixedRealityETHZ/vrra-vr-client.git
+[submodule "segmentation"]
+	path = segmentation
+	url = git@github.com:MixedRealityETHZ/room_processing.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:MixedRealityETHZ/vrra-backend.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:MixedRealityETHZ/vrra-mobile.git
