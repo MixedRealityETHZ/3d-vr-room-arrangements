@@ -6,7 +6,7 @@ Welcome to the repository of the source code of the project "3D Room Arrangement
 
 ## Components
 
-The system comprises four components, separated into different repositories for better maintainability and linked to this repository as submodules:
+The system comprises four components, separated into different repositories for better maintainability and linked to this repository as submodules. Click on the links below to view more details and the source code of each component.
 
 - [VR client](https://github.com/MixedRealityETHZ/vrra-vr-client): a Unity-based VR app running on Oculus Quest devices. 
 - [Segmentation service](https://github.com/MixedRealityETHZ/room_processing): performs semantic segmentation on 3D point clouds and meshes, based on the Minkowski Engine.
